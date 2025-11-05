@@ -31,13 +31,14 @@ This repository is just starting! The initial configuration provided is:
 
 * A running instance of **SLES 16** already registered to SCC and up to date.
 * Install `mcphost` utility by running `zypper in mcphost`
+* Install `git` by running `zypper in git`
 * Get an active **API Key (Auth Token)** from the respective LLM provider (e.g., Google AI Studio for Gemini).
 
 ### 2. Configuration
 
 1.  **Clone this repository:**
     ```bash
-    git clone [https://github.com/mmmmmmpc/mcp-configs.git](https://github.com/mmmmmmpc/mcp-configs.git)
+    git clone https://github.com/mmmmmmpc/mcp-configs.git
     cd mcp-configs
     ```
 
