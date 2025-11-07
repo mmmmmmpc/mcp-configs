@@ -1,0 +1,16 @@
+{
+	"systemPrompt": "",
+	"model": "google:gemini-2.5-flash",
+	"provider-api-key": "",
+	"debug": "false",
+	"mcpServers":
+	{
+                "filesystem": {
+                        "type": "builtin",
+                        "name": "fs",
+                        "options": {
+                                "allowed_directories": [ "/tmp" ]
+                        }
+                }
+	}
+}

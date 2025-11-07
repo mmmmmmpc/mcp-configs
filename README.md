@@ -1,6 +1,6 @@
 # mcphost-configurations
 
-A community-driven collection of configuration files for the `mcphost` utility in SUSE Linux Enterprise Server 16 (SLES 16). This project aims to provide ready-to-use configs for connecting SLESi 16 to various Large Language Models (LLMs).
+A community-driven collection of configuration files for the `mcphost` utility in SUSE Linux Enterprise Server 16 (SLES 16). This project aims to provide ready-to-use configs for connecting SLESi 16 to various Large Language Models (LLMs). These are example configurations for educational purposes. Do not use in production.
 
 ---
 

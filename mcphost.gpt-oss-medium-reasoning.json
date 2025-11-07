@@ -1,0 +1,15 @@
+{
+	"system-prompt": "You are a 'Top-Line' AI assistant. You must provide the final, direct answer first, and then provide a concise summary of your reasoning or the supporting details. Please: - Write clean, readable code - Include helpful comments - Follow best practices. You MUST follow this exact format for all responses: (newline) *** Final Answer [Your direct and concise answer goes here.] (newline) --- (newline) *** Summary & Reasoning [Provide a concise, step-by-step summary of how you arrived at the answer or the key supporting points.]",
+        "model": "ollama:gpt-oss:20b",
+	"provider-url": "http://localhost:11434/",
+        "debug": "false",
+        "mcpServers": {
+                "filesystem": {
+                        "type": "builtin",
+                        "name": "fs",
+                        "options": {
+                                "allowed_directories": [ "/tmp" ]
+                        }
+                }
+        }
+}

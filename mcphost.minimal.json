@@ -1,0 +1,15 @@
+{
+        "systemPrompt": "",
+	"model": "ollama:gpt-oss:20b",
+	"provider-url": "http://localhost:11434/",
+        "debug": "false",
+        "mcpServers": {
+                "filesystem": {
+                        "type": "builtin",
+                        "name": "fs",
+                        "options": {
+                                "allowed_directories": [ "/tmp" ]
+                        }
+                }
+        }
+}
