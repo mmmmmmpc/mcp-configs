@@ -43,7 +43,7 @@ This repository is just starting! The initial configuration provided is:
     ```
 
 2.  **Copy the desired configuration:**
-    The default `mcphost` configuration is typically located at `~/.mcp.yaml` or `~/mcp.json`. You can copy the configuration from this repo to that location.
+    The default `mcphost` configuration is typically located at `~/.mcp.yaml` or `~/.mcp.json`. You can copy the configuration from this repo to that location.
 
     ```bash
     # Example for the Gemini 2.5 Pro config

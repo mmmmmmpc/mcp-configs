@@ -14,7 +14,7 @@ top-p: 0.95
 top-k: 40
 
 # API Configuration
-provider-api-key: "AIzaSyA_aIaZ0aWstF5C7aophjYzIZGBNDBm7EM"
+provider-api-key: "MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM"
 
 # MCP Servers configuration
 mcpServers:
