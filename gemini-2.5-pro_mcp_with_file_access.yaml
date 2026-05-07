@@ -14,7 +14,7 @@ top-p: 0.95
 top-k: 40
 
 # API Configuration
-provider-api-key: "MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM"
+provider-api-key: "GEMINI_TOKEN"
 
 # MCP Servers configuration
 mcpServers:
